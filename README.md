@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @fadnier
+- 👀 I’m interested in programming 
+- 🌱 I’m currently learning php, java, kotlin
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: email - fadnier@sochidrive.org, telegram - @fadnier
